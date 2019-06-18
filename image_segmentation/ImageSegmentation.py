@@ -109,5 +109,7 @@ cv2.imshow("Gray", mars01_gray)
 cv2.namedWindow("Contours_2",cv2.WINDOW_NORMAL)
 cv2.imshow("Contours_2",objects2)
 
+
+
 cv2.waitKey(0)
 cv2.destroyAllWindows()
