@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 """Tools for satellite imagery pre-processing"""
 
-def sharp(image,level=3):
+def sharp(image,level=3): #level[1:5]
     
     def unsharp_mask(image, kernel_size=(5, 5), sigma=1.0, amount=1.0, threshold=0):
         """Return a sharpened version of the image, using an unsharp mask."""
