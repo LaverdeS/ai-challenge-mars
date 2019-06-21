@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 21 23:59:40 2019
-
+Created on June 15, 2019
 @author: SEBASTIAN LAVERDE
 """
 
